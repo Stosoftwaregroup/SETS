@@ -23,5 +23,5 @@ Producer - Mara "Sizer" Morrigan - mara.mos714@gmail.com, Discord: Sizer#3498
  
 ## Licence
 
-This project is under tbd
+This project is under The Unlicense
 
